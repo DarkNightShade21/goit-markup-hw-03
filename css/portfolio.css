@@ -21,7 +21,7 @@
 .portfolio-card-content {
   padding: 32px 16px;
   border: 1px solid var(--cornflower);
-  border-top: none; /* Рамка только вокруг нижней текстовой части */
+  border-top: none;
 }
 
 .portfolio-subtitle {

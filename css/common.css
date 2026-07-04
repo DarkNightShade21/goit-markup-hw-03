@@ -15,7 +15,6 @@ body {
   background-color: var(--white);
 }
 
-/* Глобальные сбросы */
 h1, h2, h3, h4, h5, h6, p {
   margin: 0;
 }
@@ -36,9 +35,8 @@ img {
   height: auto;
 }
 
-/* Общие вспомогательные классы по ТЗ */
 .container {
-  width: 1158px;
+  max-width: 1188px;
   padding-left: 15px;
   padding-right: 15px;
   margin-left: auto;

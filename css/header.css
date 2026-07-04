@@ -39,7 +39,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
-  padding: 24px 0; /* Высота хедера регулируется паддингами ссылок */
+  padding: 24px 0;
 }
 
 .nav-link:hover,
@@ -49,7 +49,7 @@
 
 .contacts {
   font-style: normal;
-  margin-left: auto; /* Прижимает контакты к правому краю */
+  margin-left: auto;
 }
 
 .contacts-list {
